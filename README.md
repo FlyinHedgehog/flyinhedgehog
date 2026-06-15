@@ -12,7 +12,7 @@ Background: Mathematics engineering + economics from Istanbul Tech, now MSc Data
 
 **Consent Observatory** – Analyzed cookie banners across USA vs German users. How websites ask permission to track you. Spoiler: they all do it, but the US is a little more creative about it. Also, nobody reads the cookie banners anyway.
 
-**DST Impact Analysis** – Does daylight saving time affect traffic accident rates? Short answer: no. Long answer: check my Jupyter notebook, hehe.
+**DST Impact Analysis** – Does daylight saving time affect traffic accident rates? Short answer: no. Long answer: check my Jupyter notebook.
 
 **Plastic Pollution Website** – Built with PHP and MySQL because it was 2022 and I apparently enjoyed pain. Educational website on climate change.
 
@@ -31,6 +31,6 @@ Since you made it this far, here's the first thing I get asked when I meet new p
 
 [Click to play](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-*...you actually have to meet me to learn it, hehe*
+*...you actually have to meet me to learn it hehe*
 
 </details>
