@@ -24,13 +24,6 @@ Picked it in a game years ago. It stuck because flying hedgehogs are cool and fu
 
 ---
 
-Since you made it this far, here's the first thing I get asked when I meet new people: how to pronounce my name.
+Since you made it this far, here's the first thing I get asked when I meet new people:
 
-<details>
-<summary>🎧 Listen here</summary>
-
-[Click to play](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-*...you actually have to meet me to learn it hehe*
-
-</details>
+[how to pronounce my name](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
