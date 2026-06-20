@@ -1,20 +1,18 @@
 # Gökçe Şahin 🦔
 
-I build models that predict things and pipelines that (usually) don't break. Currently in Munich, studying Data Science at LMU.
-
 Background: Mathematics engineering + economics from Istanbul Tech, now MSc Data Science at LMU Munich.
 
 ## Projects
 
-**Digital Mirrors** – Video pose estimation and analysis. Clustered 15k poses, found gendered movement patterns. Built a web tool so you can actually try it.
+**[Digital Mirrors](https://github.com/FlyinHedgehog/unveiling-digital-mirrors-further-research)** – Video pose estimation and analysis. Clustered 15k poses, found gendered movement patterns. Built a web tool so you can actually try it. 
 
-**Arctic Energy & Global Market Dynamics** – How Arctic oil and gas can affect global prices and import-dependent economies. Supply modeling from geological data through elasticity to macroeconomics.
+**[Arctic Energy & Global Market Dynamics](https://github.com/FlyinHedgehog/Arctic-Energy-and-Global-Market-Dynamics)** – How Arctic oil and gas can affect global prices and import-dependent economies. Supply modeling from geological data through elasticity to macroeconomics.
 
-**Consent Observatory** – Analyzed cookie banners across USA vs German users. How websites ask permission to track you. Spoiler: they all do it, but the US is a little more creative about it. Also, nobody reads the cookie banners anyway.
+**[Consent Observatory](https://github.com/FlyinHedgehog/consent-observatory-tool-analysis)** – Analyzed cookie banners across USA vs German users. How websites ask permission to track you. Spoiler: they all do it, but the US is a little more creative about it. Also, nobody reads the cookie banners anyway.
 
-**DST Impact Analysis** – Does daylight saving time affect traffic accident rates? Short answer: no. Long answer: check my Jupyter notebook.
+**[DST Impact Analysis](https://github.com/FlyinHedgehog/dst-impact-analysis)** – Does daylight saving time affect traffic accident rates? Short answer: no. Long answer: check my Jupyter notebook.
 
-**Plastic Pollution Website** – Built with PHP and MySQL because it was 2022 and I apparently enjoyed pain. Educational website on climate change.
+**[Plastic Pollution Website](https://github.com/FlyinHedgehog/plastic-pollution-website)** – Built with PHP and MySQL because it was 2022 and I apparently enjoyed pain. Educational website on climate change.
 
 ## Why FlyinHedgehog
 
