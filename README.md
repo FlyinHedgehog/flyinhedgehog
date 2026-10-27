@@ -1,10 +1,10 @@
 # Gökçe Şahin 🦔
 
-Background: Mathematics engineering + economics from Istanbul Tech, now MSc Data Science at LMU Munich.
+Background: BSc Mathematics Engineering + BSc Economics from Istanbul Technical University, now MSc Data Science at Ludwig Maximilian University of Munich.
 
 ## Projects
 
-**[Digital Mirrors](https://github.com/FlyinHedgehog/unveiling-digital-mirrors-further-research)** – Video pose estimation and analysis. Clustered 15k poses, found gendered movement patterns. Built a web tool so you can actually try it. 
+**[Digital Mirrors](https://github.com/FlyinHedgehog/unveiling-digital-mirrors-further-research)** – Video pose estimation and analysis. Clustered 15k poses, found gendered movement patterns. Built a web tool so you can actually try it. I also accidentally got a paper published, opppsie: [Digital Mirrors in Motion: A Tool for Measuring Gendered Movement in Short Videos](https://www.aup-online.com/content/journals/10.5117/CCR2026.1.10.SAHI)
 
 **[Arctic Energy & Global Market Dynamics](https://github.com/FlyinHedgehog/Arctic-Energy-and-Global-Market-Dynamics)** – How Arctic oil and gas can affect global prices and import-dependent economies. Supply modeling from geological data through elasticity to macroeconomics.
 
